@@ -101,6 +101,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://replit.com/github/emirofcordoba/RoboRat">
+    <img src="https://img.shields.io/badge/Import%20To%20Replit-Click%20to%20Import-blue?style=for-the-badge" alt="Import to Replit Button" width="820" />
+  </a>
+</p>
+
 
 ## How to host server in RENDER.COM
 <p>FOLLOW THWSW STEPS:</p>
